@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClayKrr
 - 👀 I’m interested in front-end web development.
-- 🌱 I’m currently learning html language.
+- 🌱 I’m currently learning html.
 - 💞️ I’m looking to collaborate to build a better developers community.
 - 📫 clay.focus2015@gmail.com
 
