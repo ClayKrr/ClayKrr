@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClayKrr
-- 👀 I’m interested in software and app development.
-- 🌱 I’m currently learning python language.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning html language.
 - 💞️ I’m looking to collaborate to build a better developers community.
 - 📫 clay.focus2015@gmail.com
 
