@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Clay
 - 👀 I’m interested in front-end web development.
-- 🌱 I’m currently learning CSS.
-- 💞️ I’m looking to collaborate to build a better developers community.
+- 🌱 I’m currently learning JavaScript and CSS Layout.
+- 💞️ I’m looking for teammates for a better developers experience.
 - 📫 clay.focus2015@gmail.com
